@@ -39,9 +39,6 @@ To ensure a positive and inclusive experience for all members, please adhere to 
 3. *Collaboration:* Foster a spirit of collaboration and teamwork.
 4. *Professionalism:* Maintain professionalism in all interactions and communications.
 
-## Support
-
-If you need assistance or have any questions, feel free to reach out to our support team at [support@example.com](mailto:support@example.com).
 
 ## Acknowledgments
 
